@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Anti-Theft</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="version">版本号</string>
+    <string name="main">防盗卫士</string>
+    <string name="protecte">手机防盗</string>
+    <string name="setPassword">设置登录密码</string>
+    <string name="setPasswordDescription">设置手机防盗的密码</string>
+    <string name="againPassword">请再次输入密码</string>
+    <string name="protectedYes">确定</string>
+    <string name="protectedNo">取消</string>
+    <string name="login">用户登录</string>
+    <string name="inputPassword">请输入密码</string>
+    <string name="setupGuide">设置向导</string>
+    <string name="guide1">欢迎使用手机防盗</string>
+    <string name="guide1_content">您的手机防盗卫士：</string>
+    <string name="guide1_item1">    SIM卡变更报警</string>
+    <string name="guide1_item2">gps追踪</string>
+    <string name="guide1_item3">远程销毁数据</string>
+    <string name="guide1_item4">远程锁屏</string>
+    <string name="guide2">绑定手机卡</string>
+    <string name="guide2_content">如果sim卡绑定，如果下次更换的话，就会自动发送短信</string>
+    <string name="guide2_item1">绑定</string>
+    <string name="guide2_item2">没有绑定</string>
+    <string name="guide3">设置安全号码</string>
+    <string name="guide3_content">如果sim卡更换后，会把短信发送到该号码上</string>
+    <string name="guide3_item1">请输入一个或选择手机安全号码</string>
+    <string name="guide3_item2">请选择联系人</string>
+    <string name="guide4">恭喜您，设置已经完成</string>
+    <string name="guide4_content">您的手机设置已经完成</string>
+    <string name="guide4_item1">手机没有开启保护</string>
+    <string name="guide4_item2">手机已经开启保护了</string>
+    <string name="next">下一步</string>
+    <string name="pervious">上一步</string>
+    <string name="finish">完成</string>
+    <string name="selectContact">选择联系人</string>
+    <string name="lostProtectedNumber">安全号码</string>
+    <string name="isProtected">已经开启保护</string>
+    <string name="rePlayGuide">重新进入设置向导</string>
+    <string name="about">school:xzit\n\ntime:2014.04.15\n\naim:毕业设计\n\nauthor:10软件颜廷庚</string>
+
+</resources>

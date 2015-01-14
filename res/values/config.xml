@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 服务器的更新地址 -->
+    <string name="serverUrl">http://10.110.83.115:8080/Security/update.xml</string>
+    
+</resources>
